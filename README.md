@@ -2,6 +2,8 @@
 
 <img src="img/pytorch-logo-dark.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+<img align="right" src="img/HKUST.jpg" width="12%">
+
 This is a placeholder repository. Official code will be published soon.
 
 This is also the same code for the preliminary version on arXiv:
