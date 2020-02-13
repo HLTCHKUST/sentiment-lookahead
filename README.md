@@ -1,6 +1,6 @@
 ## Generating Empathetic Responses by Looking Ahead the User's Sentiment
 
-<img src="img/pytorch-logo-dark.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[<img src="img/pytorch-logo-dark.png" width="10%">](https://pytorch.org) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 <img align="right" src="img/HKUST.jpg" width="12%">
 
