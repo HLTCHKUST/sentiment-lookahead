@@ -6,4 +6,4 @@ This is a placeholder repository. Official code will be published soon.
 
 This is also the same code for the preliminary version on arXiv:
 
-"Happybot: Generating empathetic dialogue responses by improving user experience look-ahead" [[pdf]](https://arxiv.org/pdf/1906.08487.pdf)
+**Happybot: Generating empathetic dialogue responses by improving user experience look-ahead.** Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung [[pdf]](https://arxiv.org/pdf/1906.08487.pdf)
