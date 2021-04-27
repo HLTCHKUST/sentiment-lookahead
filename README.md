@@ -4,8 +4,30 @@
 
 <img align="right" src="img/HKUST.jpg" width="12%">
 
-This is a placeholder repository. Official code will be published soon.
+This is the official code for the preliminary version on arXiv and the ICASSP 2020 full papers. This code is outdated and officially unmaintained, but the code is uploaded for reference of the user.
 
-This is also the same code for the preliminary version on arXiv:
+**Generating empathetic responses by looking ahead the user's sentiment.** Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung [[pdf]](https://ieeexplore.ieee.org/abstract/document/9054379)
+
+**Bibtex**:
+```bibtex
+@inproceedings{shin2020generating,
+  title={Generating empathetic responses by looking ahead the user’s sentiment},
+  author={Shin, Jamin and Xu, Peng and Madotto, Andrea and Fung, Pascale},
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7989--7993},
+  year={2020},
+  organization={IEEE}
+}
+```
 
 **Happybot: Generating empathetic dialogue responses by improving user experience look-ahead.** Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung [[pdf]](https://arxiv.org/pdf/1906.08487.pdf)
+
+**Bibtex**:
+```bibtex
+@article{shin2019happybot,
+  title={Happybot: Generating empathetic dialogue responses by improving user experience look-ahead},
+  author={Shin, Jamin and Xu, Peng and Madotto, Andrea and Fung, Pascale},
+  journal={arXiv preprint arXiv:1906.08487},
+  year={2019}
+}
+```
